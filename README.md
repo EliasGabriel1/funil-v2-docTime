@@ -312,10 +312,25 @@ TOTAL DE HORAS: 4 horas
  
  </br>
 
+
  
-LISTA ENVIADA PELO BRENO 
+## Ações:
+### 8 - corrigindo variaveis zustand
+
+ </br>
+ 
+
+commit =https://github.com/AutoTaxOrg/funil-v2/commit/47dfa15125f96e5439a326280903130b3a4263a5</br>
+ 
  </br>
 
+sexta DAS 18:00 ATÉ O COMMIT (20:07); encerrado
+TOTAL DE HORAS: 2 horas
+ 
+ </br>
+  
+LISTA ENVIADA PELO BRENO 
+ </br>
 
 1- Remover uso de cookie e utilizar a lib do zustand (https://github.com/pmndrs/zustand)
 2- Remover o uso da api diretamente pelo aplicativo e usar a função fetchCompany que irá utilizar o backend para buscar pelo cnpj
